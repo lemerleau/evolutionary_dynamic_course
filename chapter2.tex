@@ -1,0 +1,47 @@
+\chapter{Mutation}
+
+\section{Global models, Local models }
+\begin{algorithm}[H]
+ \KwData{this text}
+ \KwResult{how to write algorithm with \LaTeX2e }
+ initialization\;
+ \While{not at end of this document}{
+  read current\;
+  \eIf{understand}{
+   go to next section\;
+   current section becomes this one\;
+   }{
+   go back to the beginning of current section\;
+  }
+ }
+ \caption{How to write algorithms}
+\end{algorithm} 
+\section{Error thresholds}
+\begin{algorithm}
+    \SetKwInOut{Input}{Input}
+    \SetKwInOut{Output}{Output}
+    %\SetKwInOut{Initialisation}{Initialisation}
+	
+    %\underline{function Euclid} $(a,b)$\;
+    \Input{$f_1,f_2,f_3...f_s$ and $<$}
+    \Output{$q_1,q_2,q_3...q_s$}
+    %\Initialisation{$q_1=q_2=q_3=...=q_s=0$}
+    initialization $q_1=q_2=q_3=...=q_s=0$\;
+    \While{$v\neq 0$}{
+      $i=1$\;
+     \While{$i\leq 8$}{
+           
+    \eIf{$Lt(f_i/Lt(v))$}
+      {
+        $q_i=q_1 + \frac{Lt(v)}{Lt(f_i)}$\;
+         $v=v -\frac{Lt(v)}{Lt(f_i)}f_i$\;
+      }
+      {
+        $i=i+1$\;
+      }
+      }
+      $h = h+Lt(v)$\;
+      $v = v-Lt(v)$\;      
+      }
+    \caption{Division Algorithm}
+\end{algorithm}

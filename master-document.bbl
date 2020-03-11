@@ -1,0 +1,72 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Adolphson et~al.(1992)Adolphson, Sperber, and Tretkoff]{AD92}
+Alan Adolphson, Steven Sperber, and Marvin Tretkoff, editors.
+\newblock \emph{$p$-adic Methods in Number Theory and Algebraic Geometry}.
+\newblock Number 133 in Contemporary Mathematics. American Mathematical
+  Society, Providence, RI, 1992.
+
+\bibitem[Beardon(2006)]{Beardon}
+Alan Beardon.
+\newblock From problem solving to research, 2006.
+\newblock Unpublished manuscript.
+
+\bibitem[Davey(1999)]{mcdthesis}
+Matthew Davey.
+\newblock \emph{Error-correction using Low-Density Parity-Check Codes}.
+\newblock Phd, University of Cambridge, 1999.
+
+\bibitem[Lamport(1986)]{latex}
+Leslie Lamport.
+\newblock \emph{{\LaTeX \rm:} {A} Document Preparation System}.
+\newblock Addison-Wesley, 1986.
+
+\bibitem[MacKay and Neal()]{mnc4pfoutdated}
+D.~J.~C. MacKay and R.~M. Neal.
+\newblock Good codes based on very sparse matrices.
+\newblock Available from \url{www.inference.phy.cam.ac.uk}, 1995.
+
+\bibitem[MacKay({\natexlab{a}})]{MacKay86}
+David MacKay.
+\newblock Statistical testing of high precision digitisers.
+\newblock Technical Report 3971, Royal Signals and Radar Establishment,
+  Malvern, Worcester. WR14 3PS, 1986{\natexlab{a}}.
+
+\bibitem[MacKay({\natexlab{b}})]{MacKay94:fe}
+David MacKay.
+\newblock A free energy minimization framework for inference problems in modulo
+  2 arithmetic.
+\newblock In B.~Preneel, editor, \emph{Fast Software Encryption (Proceedings of
+  1994 K.U. Leuven Workshop on Cryptographic Algorithms)}, number 1008 in
+  Lecture Notes in Computer Science Series, pages 179--195. Springer,
+  1995{\natexlab{b}}.
+
+\bibitem[Shannon(1948)]{Shannon48}
+Claude Shannon.
+\newblock A mathematical theory of communication.
+\newblock \emph{Bell Sys. Tech. J.}, 27:\penalty0 379--423, 623--656, 1948.
+
+\bibitem[Shannon(1993)]{shannon44}
+Claude Shannon.
+\newblock The best detection of pulses.
+\newblock In N.~J.~A. Sloane and A.~D. Wyner, editors, \emph{Collected Papers
+  of Claude Shannon}, pages 148--150. IEEE Press, New York, 1993.
+
+\bibitem[Web12()]{Webots}
+Web12.
+\newblock Commercial mobile robot simulation software.
+\newblock Webots, \url{www.cyberbotics.com}, Accessed April 2013.
+
+\bibitem[Wik12()]{WikBlackScholes}
+Wik12.
+\newblock Black scholes.
+\newblock Wikipedia, the Free Encyclopedia,
+  \url{http://en.wikipedia.org/wiki/Black%E2%80%93Scholes}, Accessed April
+  2012.
+
+\end{thebibliography}
